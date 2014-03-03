@@ -6,3 +6,5 @@ Willkommen zur offenen Beta-Version von Shape Shifter U, kurz USS. Geplant ist U
 Jeder, der Verbesserungsvorschläge oder weitere Ideen für USS hat, darf gerne hieran weiterarbeiten.
 
 Wenn du Fragen hast, schau doch bitte mal im USS Wiki vorbei. Und: solltest du einen Bug oder ähnliches entdecken, sei doch bitte so nett und melde diesen bei uns. Das geht über ein Ticket hier auf GitHub oder mit einer E-Mail an dev@ztzockt.tk.
+
+Eine Demo kann <a href="http://www.shapeshifter.tk">hier auf ShapeShifter.tk</a> angesehen werden.
